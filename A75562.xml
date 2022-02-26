@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquess of Argyle his petition to the parliament of Scotland; craving a precognition of his case, containing many weighty reasons urging the necessity thereof. / Presented to the parliament, February 12, 1661.</title>
+            <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75562</idno>
+            <idno type="STC">Wing A3662A</idno>
+            <idno type="STC">ESTC R172504</idno>
+            <idno type="EEBO-CITATION">45504735</idno>
+            <idno type="OCLC">ocm 45504735</idno>
+            <idno type="VID">171587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171587)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquess of Argyle his petition to the parliament of Scotland; craving a precognition of his case, containing many weighty reasons urging the necessity thereof. / Presented to the parliament, February 12, 1661.</title>
+                  <author>Argyll, Archibald Campbell, Marquis of, 1598-1661.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages numbered randomly: -, -, 59, -, -, 60, 56, -.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Marquis of, 1598-1661.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171587:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <p>THE Marqueſs of Argyle HIS PETITION TO THE PARLIAMENT OF SCOTLAND; Craving a <hi>Precognition</hi> of his Caſe, Containing many weighty Reaſons urging the neceſſity thereof.</p>
+            <p>Preſented to the Parliament <hi>February</hi> 12. 1661.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1661.</p>
+            <pb facs="tcp:171587:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:171587:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:171587:3"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="59" facs="tcp:171587:3"/>
+            <!-- PDF PAGE 30 -->
+            <head>To my <hi>Lord Commiſſioner</hi> his Grace, and Honourable Eſtates of Parliament.</head>
+            <head type="sub">The Humble Petition of <hi>Archbald</hi> Mar<g ref="char:EOLhyphen"/>queſs of <hi>Argyle.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT for as much as the Petiti<g ref="char:EOLhyphen"/>oner can with a ſafe conſcience affirm, and ſolemnly proteſt, that what-ever his actings or acceſſi<g ref="char:EOLhyphen"/>on has been in relation to pub<g ref="char:EOLhyphen"/>lick buſineſs ſince the beginning of the troubles, till his Majeſties departure hence in the year 1651. though he will not purge himſelf of errors, failings, and miſtakes, both in judgement and practice incident to humane frailty, and common to him, if not with the whole, at leaſt with the greateſt part of the Nation; yet in one thing, though he were to die, he would ſtill avouch and retain his innocency, that he never intended any thing treaſonably, out of any pernicious deſign againſt his Majeſties late Royal Father of ever glorious memory, or his preſent Majeſty, (whom God may long preſerve) their Per<g ref="char:EOLhyphen"/>ſons or Government; but endeavoured al<g ref="char:EOLhyphen"/>waies to his uttermoſt for ſetling the differen<g ref="char:EOLhyphen"/>ces betwixt their Majeſties and the people: And as to any actings before the year 1641.
+<pb facs="tcp:171587:4"/>
+               <!-- PDF PAGE 31 -->or from the ſaid year, till his Majeſties being in the Parliament at <hi>Perth</hi> and <hi>Sterling,</hi> your Petitioner did with a full aſſurance rely upon his gracious Majeſty, and his Royal Father, their Treaties, Approbation, Oblivion, and Indempnity for what was paſt, and firmly be<g ref="char:EOLhyphen"/>lieved lieved that the ſame ſhould never have riſen in judgement, or that the Petitioner ſhould have been drawn in queſtion therefore; and during his Majeſties abſence, and being forced from the exerciſe of his Royal Government by the late Uſurpers, and long after that the Nation by their Deputies had accepted of their au<g ref="char:EOLhyphen"/>thority and government, and they in poſſeſſi<g ref="char:EOLhyphen"/>on, the Petitioner was forced to capitulation with them, being in their hands, and under ſickneſs, and the ſame was after all endeavours uſed, according to the duty of a good ſubject, and upon the Petitioners part, ſo innocent and neceſſary for ſelf preſervation, without the leaſt intention, action, or effect to his Majeſties prejudice; That albeit upon miſ-information (as the Petitioner humbly conceives) his act<g ref="char:EOLhyphen"/>ings and complyance both in their deſigns and quality have been miſ-repreſented, as particu<g ref="char:EOLhyphen"/>larly ſingular and perſonal, ſtating the Petitio<g ref="char:EOLhyphen"/>ner in a degree of guilt beyond others, and incapable of pardon, the ſame have ſo far pre<g ref="char:EOLhyphen"/>vailed upon his Majeſty, as to cloud and damp the propitious and comfortable rayes of his Royal Grace and Favour, and have ſtrained his gracious Inclination beyond its natural
+<pb facs="tcp:171587:4"/>
+               <!-- PDF PAGE 31 -->diſpoſition of clemency expreſt to his other ſubjects, to commit the Petitioners perſon, and give way to the tryal of his carriage and act<g ref="char:EOLhyphen"/>ings; yet ſo firmly rooted is the Petitioners perſwaſion of his Majeſties Juſtice and Cle<g ref="char:EOLhyphen"/>mency, and that He intends the reclaiming, and not the ruine of the meaneſt of his ſubjects, who retein their loyalty, duty, and good affe<g ref="char:EOLhyphen"/>ction to his Perſon and Government, that upon true and right repreſentation of the Petitio<g ref="char:EOLhyphen"/>ners carriage and actings, he ſhall be able to vindicate himſelf of theſe aſperſions, and ſhall give his Majeſty ſatisfaction, at leaſt ſo far, to extenuate his guilt, as may render him a fit ob<g ref="char:EOLhyphen"/>ject of that Royal Clemency, which is of that depth, that having ſwallowed and paſt by not only Perſonal, but National guiltineſs, of much more deep a dye as any the Petitioner can be charged with, or made out againſt him; and ſo will not ſtrain to paſs by and pardon the faults and failings of a perſon who never acted but in a publick joynt way, without any ſini<g ref="char:EOLhyphen"/>ſtrous or treaſonable defigne againſt his Maje<g ref="char:EOLhyphen"/>ſty, or his Royal Father, and againſt which he can defend himſelf either by acts of approbati<g ref="char:EOLhyphen"/>on and oblivion <hi>in verbo principis,</hi> which he conceives to be the ſupreme, ſacred, and invio<g ref="char:EOLhyphen"/>lable ſecurity, or which he was forced to much againſt his inclination, by an inſuperable neceſ<g ref="char:EOLhyphen"/>ſity. And albeit his Majeſties grace and favour is ſtrictly tyed to no other rule but his Royal Will and pleaſure, yet his Majeſties ſo innate,
+<pb n="60" facs="tcp:171587:5"/>
+               <!-- PDF PAGE 32 -->eſſential and inſeperable a quality of his Roy<g ref="char:EOLhyphen"/>al nature, that the Petitioner is perſwaded in all humane certainty, that the leaving and committing to his Parliament (as is expreſt in his Majeſties Declaration of <hi>Octob.</hi> 12. laſt by paſt) the trying and judging of the carriage of his ſubjects during the late troubles, as indeed it is in its own nature, and ought to be ſo acce<g ref="char:EOLhyphen"/>pted of all, as an undoubted evidence of his Majeſties affection to, and confidence in his people; ſo no other tryal or judging is therein meaned, but a fair, juſt, legal, and uſual tryal, without any prejudice, paſſion, or prelimitati<g ref="char:EOLhyphen"/>on, or precipitation; like as by the ſaid Decla<g ref="char:EOLhyphen"/>ration there was a freedom for all the people intereſſed, to make their application to the Parliament, or in the mean time to the Com<g ref="char:EOLhyphen"/>mittee, from whom only his Majeſty is pleaſed to declare he would receive addreſs &amp; infor<g ref="char:EOLhyphen"/>mation: And ſeeing it was the Petitioners misfortune during the ſitting of the ſaid Com<g ref="char:EOLhyphen"/>mittee, to be priſoner in <hi>England,</hi> whereas if he had been priſoner here in <hi>Scotland,</hi> he would have made application to them, and would have craved, and in juſtice expected that pre<g ref="char:EOLhyphen"/>cognition might have been taken by them, to whom the preparing and ordering of that af<g ref="char:EOLhyphen"/>fair (to wit, anent the tryal of the ſubjects car<g ref="char:EOLhyphen"/>riage during the troubles) was recommended, that the Petitioners abſence, which was his puniſhment, not his fault, may not be prejudi<g ref="char:EOLhyphen"/>cial, ſeeing the Petitioner has lately received
+<pb n="56" facs="tcp:171587:5"/>
+               <!-- PDF PAGE 32 -->two ſeveral ditays wherein there be many crimes groſly falſe, with all the aſperſions and aggravations imaginable laid to his charge, importing no leſs then the loſs of his life, fame, and eſtate, and the ruine of him and his poſte<g ref="char:EOLhyphen"/>rity, which he is confident is not intended by his Majeſty; and that by the law and practiſe of this Kingdom, conſonant to all reaſon and equity, the Petitioner ought to have upon his deſire a precognition for taking the depoſition of certain perſons, which being frequently and uſually practiſed in this Country, when any perſon is defamed for any crime, and therefore incarcerate before he was brought to a tryal, at his deſire precognition was taken in all bu<g ref="char:EOLhyphen"/>ſineſs relating thereto, which the Petitioner in all humility conceives ought much more not to be denied to him, not only by reaſon of reſpect to his quality, and of the importance and conſequence thereof to all his Majeſties ſubjects of all quality in all time coming, but alſo, in regard it has been ſo meaned and in<g ref="char:EOLhyphen"/>tended by his Majeſties Declaration foreſaid, like as the manner of the crimes objected being actings in times of wars and troubles, the guilt thereof was not perſonal and particular, but rather National and univerſal, and vailed and covered with acts of indempnity and oblivion, and ſo tender and tickliſh, that if duly pon<g ref="char:EOLhyphen"/>dered after a hearing allowed to the Petitio<g ref="char:EOLhyphen"/>ner, in prudency and policy will not be found expedient to be toſſed in publick, or touched
+<pb facs="tcp:171587:6"/>
+               <!-- PDF PAGE 33 -->with every hand, but rather to be precogno<g ref="char:EOLhyphen"/>ſced upon by ſome wiſe, ſober, noble, and ju<g ref="char:EOLhyphen"/>dicious perſons, for their and ſeveral others reaſons in the paper hereto annexed; nor does the Petitioner deſire the ſame <hi>animo pro te<g ref="char:EOLhyphen"/>landi,</hi> nor needs the ſame breed any longer delay, nor is it ſought without an end of zeal to his Majeſties power, and vindication of the Petitioners innocency, as to many particulars wherewith he is aſperſed; and it would be ſeriouſly pondered that ſeeing <hi>Cunctatio nulla longa ubi agitur de vita hominis,</hi> far leſs can this ſmall delay, which is uſual, and in this caſe moſt expedient, if not abſolutely neceſſary, be refuſed, <hi>ubi agitur non ſolum de vita, ſed de fama,</hi> and of all worldly intereſts that can be dear or of value to any man.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon Conſideration of the Premiſes, it is humbly craved, That your Grace, and the Honourable Eſtates of Parliament, may grant the Petitioners deſire, and to give Warrant to cite perſons to De<g ref="char:EOLhyphen"/>pone before your Grace, and the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, upon ſuch interrogators as your Petitioner ſhall give in, for clearing of ſeveral things con<g ref="char:EOLhyphen"/>cerning his intention and loyalty during the Trou<g ref="char:EOLhyphen"/>bles; And for ſuch as are out of the Country, and Strangers, reſidentars in</hi> England, <hi>Commiſſions may be directed to ſuch as your Grace and the Par<g ref="char:EOLhyphen"/>liament ſhall think fit, to take their Depoſitions up<g ref="char:EOLhyphen"/>on Oath, and to return the ſame;</hi>
+            </p>
+            <closer>And your Petitioner ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="rejection_of_petition">
+            <opener>
+               <dateline>Edinburgh, <date>Febr. 12. 1660.</date>
+               </dateline>
+            </opener>
+            <p>This Petition being read, was refuſed.</p>
+            <pb facs="tcp:171587:6"/>
+            <!-- PDF PAGE 33 -->
+         </div>
+      </body>
+   </text>
+</TEI>
